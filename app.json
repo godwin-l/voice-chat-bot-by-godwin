@@ -1,8 +1,7 @@
 {
-  "name": "Web Speech AI Chatbot Demo",
-  "description": "Simple AI Chat Bot Demo with Web Speech API",
-  "repository": "https://github.com/girliemac/web-speech-ai",
-  "keywords": ["ai", "api.ai", "bot", "w3c"],
+  "name": "Voice Chat Bot By Godwin",
+  "description": "Voice Chat",
+  "repository": "https://github.com/alloygodwin1/voice-chat-bot-by-godwin",
   "env": {
     "APIAI_TOKEN": {
       "description": "API.ai Client access token",
@@ -12,6 +11,5 @@
       "description": "An arbitrary string",
       "value": ""
     }
-  },
-  "image": "heroku/nodejs"
+  }
 }
